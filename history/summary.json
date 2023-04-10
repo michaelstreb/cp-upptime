@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1637,
-    "timeDay": 1637,
-    "timeWeek": 1637,
-    "timeMonth": 1637,
-    "timeYear": 1637,
+    "time": 1901,
+    "timeDay": 1901,
+    "timeWeek": 1901,
+    "timeMonth": 1901,
+    "timeYear": 1901,
     "dailyMinutesDown": {}
   },
   {
@@ -46,29 +46,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 770,
-    "timeDay": 770,
-    "timeWeek": 770,
-    "timeMonth": 770,
-    "timeYear": 770,
+    "time": 773,
+    "timeDay": 773,
+    "timeWeek": 773,
+    "timeMonth": 773,
+    "timeYear": 773,
     "dailyMinutesDown": {}
   },
   {
     "name": "cloudpunks - kaas plattform dev",
-    "url": "https://kaas.cloudpunks.io/",
-    "icon": "https://icons.duckduckgo.com/ip3/kaas.cloudpunks.io.ico",
+    "url": "https://kaas.cloudpunks.dev/",
+    "icon": "https://icons.duckduckgo.com/ip3/kaas.cloudpunks.dev.ico",
     "slug": "cloudpunks-kaas-plattform-dev",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.25%",
+    "uptimeDay": "99.25%",
+    "uptimeWeek": "99.25%",
+    "uptimeMonth": "99.25%",
+    "uptimeYear": "99.25%",
     "time": 146,
     "timeDay": 146,
     "timeWeek": 146,
     "timeMonth": 146,
     "timeYear": 146,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-04-10": 0
+    }
   }
 ]
