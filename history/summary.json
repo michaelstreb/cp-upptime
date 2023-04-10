@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1633,
-    "timeDay": 1633,
-    "timeWeek": 1633,
-    "timeMonth": 1633,
-    "timeYear": 1633,
+    "time": 1681,
+    "timeDay": 1681,
+    "timeWeek": 1681,
+    "timeMonth": 1681,
+    "timeYear": 1681,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 533,
-    "timeDay": 533,
-    "timeWeek": 533,
-    "timeMonth": 533,
-    "timeYear": 533,
+    "time": 672,
+    "timeDay": 672,
+    "timeWeek": 672,
+    "timeMonth": 672,
+    "timeYear": 672,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 643,
-    "timeDay": 643,
-    "timeWeek": 643,
-    "timeMonth": 643,
-    "timeYear": 643,
+    "time": 844,
+    "timeDay": 844,
+    "timeWeek": 844,
+    "timeMonth": 844,
+    "timeYear": 844,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "cloudpunks - kaas plattform dev",
+    "url": "https://kaas.cloudpunks.dev/",
+    "icon": "https://icons.duckduckgo.com/ip3/kaas.cloudpunks.dev.ico",
+    "slug": "cloudpunks-kaas-plattform-dev",
+    "status": "down",
+    "uptime": "10.19%",
+    "uptimeDay": "10.19%",
+    "uptimeWeek": "10.19%",
+    "uptimeMonth": "10.19%",
+    "uptimeYear": "10.19%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2023-04-10": 0
+    }
   }
 ]
