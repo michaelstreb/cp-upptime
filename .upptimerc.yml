@@ -17,11 +17,11 @@ status-website:
   baseUrl: /cp-upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: cloudpunks upptime
-  introTitle: "**cloudpunks uptime page - powered by github and upptime**"
+  introTitle: "**cloudpunks status**"
   introMessage: 
   navbar:
     - title: Status
-      href: /dp-upptime
+      href: /cp-upptime
     - title: cloudpunks
       href: https://www.cloudpunks.de
 
