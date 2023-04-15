@@ -1,6 +1,7 @@
 # Change these first
 owner: michaelstreb # Your GitHub organization or username, where this repository lives
 repo: cp-upptime # The name of this repository
+runner: "[self-hosted, linux]"
 
 sites:
   - name: cloudpunks - website
@@ -24,8 +25,6 @@ status-website:
       href: /cp-upptime
     - title: cloudpunks
       href: https://www.cloudpunks.de
-
-runner: "[self-hosted, linux, ARM64]"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
