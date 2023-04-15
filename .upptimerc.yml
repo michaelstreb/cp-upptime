@@ -8,6 +8,8 @@ sites:
     url: https://www.cloudpunks.de
   - name: cloudpunks - auth service
     url: https://auth.cloudpunks.io/auth/realms/core
+  - name: cloudpunks - git service
+    url: https://git.cloudpunks.io
   - name: cloudpunks - kaas plattform
     url: https://kaas.cloudpunks.io/
 
