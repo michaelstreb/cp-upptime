@@ -58,18 +58,19 @@
     "url": "https://kaas.cloudpunks.io/",
     "icon": "https://icons.duckduckgo.com/ip3/kaas.cloudpunks.io.ico",
     "slug": "cloudpunks-kaas-plattform",
-    "status": "up",
-    "uptime": "95.63%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "95.94%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "94.21%",
-    "uptimeMonth": "95.63%",
-    "uptimeYear": "95.63%",
+    "uptimeMonth": "95.94%",
+    "uptimeYear": "95.94%",
     "time": 519,
     "timeDay": 165,
     "timeWeek": 341,
     "timeMonth": 519,
     "timeYear": 519,
     "dailyMinutesDown": {
+      "2023-04-20": 0,
       "2023-04-16": 583
     }
   }
