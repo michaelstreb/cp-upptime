@@ -12,6 +12,8 @@ sites:
     url: https://git.cloudpunks.io
   - name: cloudpunks - kaas plattform
     url: https://kaas.cloudpunks.io/
+  - name: cloudpunks - marketplace
+    url: https://marketplace.cloudpunks.de/    
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
