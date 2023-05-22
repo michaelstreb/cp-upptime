@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 528,
-    "timeDay": 58,
-    "timeWeek": 176,
-    "timeMonth": 234,
+    "timeDay": 289,
+    "timeWeek": 219,
+    "timeMonth": 242,
     "timeYear": 528,
     "dailyMinutesDown": {}
   },
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.96%",
-    "time": 349,
-    "timeDay": 194,
-    "timeWeek": 217,
+    "time": 347,
+    "timeDay": 213,
+    "timeWeek": 219,
     "timeMonth": 236,
-    "timeYear": 349,
+    "timeYear": 347,
     "dailyMinutesDown": {
       "2023-05-08": 22
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 168,
-    "timeDay": 167,
+    "time": 167,
+    "timeDay": 165,
     "timeWeek": 160,
     "timeMonth": 170,
-    "timeYear": 168,
+    "timeYear": 167,
     "dailyMinutesDown": {}
   },
   {
@@ -61,18 +61,38 @@
     "icon": "https://icons.duckduckgo.com/ip3/kaas.cloudpunks.io.ico",
     "slug": "cloudpunks-kaas-plattform",
     "status": "up",
-    "uptime": "99.02%",
+    "uptime": "99.03%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.02%",
+    "uptimeYear": "99.03%",
     "time": 344,
-    "timeDay": 155,
-    "timeWeek": 234,
-    "timeMonth": 235,
+    "timeDay": 228,
+    "timeWeek": 243,
+    "timeMonth": 237,
     "timeYear": 344,
     "dailyMinutesDown": {
       "2023-04-16": 583
+    }
+  },
+  {
+    "name": "cloudpunks - marketplace",
+    "url": "https://marketplace.cloudpunks.de/",
+    "icon": "https://icons.duckduckgo.com/ip3/marketplace.cloudpunks.de.ico",
+    "slug": "cloudpunks-marketplace",
+    "status": "down",
+    "uptime": "7.62%",
+    "uptimeDay": "7.62%",
+    "uptimeWeek": "7.62%",
+    "uptimeMonth": "7.62%",
+    "uptimeYear": "7.62%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2023-05-22": 0
     }
   }
 ]
