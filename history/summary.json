@@ -4,7 +4,7 @@
     "url": "https://www.cloudpunks.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.cloudpunks.de.ico",
     "slug": "cloudpunks-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 241,
     "timeMonth": 248,
     "timeYear": 526,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-22": 0
+    }
   },
   {
     "name": "cloudpunks - auth service",
