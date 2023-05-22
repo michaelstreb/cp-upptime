@@ -13,7 +13,8 @@ sites:
   - name: cloudpunks - kaas plattform
     url: https://kaas.cloudpunks.io/
   - name: cloudpunks - marketplace
-    url: https://marketplace.cloudpunks.de/    
+    url: https://marketplace.cloudpunks.de/   
+    __dangerous__disable_verify_peer: true
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
