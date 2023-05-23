@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.cloudpunks.de.ico",
     "slug": "cloudpunks-website",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 509,
-    "timeDay": 206,
-    "timeWeek": 200,
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 502,
+    "timeDay": 209,
+    "timeWeek": 202,
     "timeMonth": 235,
-    "timeYear": 509,
-    "dailyMinutesDown": {
-      "2023-05-22": 7
-    }
+    "timeYear": 502,
+    "dailyMinutesDown": {}
   },
   {
     "name": "cloudpunks - auth service",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.96%",
-    "time": 347,
-    "timeDay": 267,
-    "timeWeek": 236,
-    "timeMonth": 240,
-    "timeYear": 347,
+    "time": 349,
+    "timeDay": 347,
+    "timeWeek": 259,
+    "timeMonth": 248,
+    "timeYear": 349,
     "dailyMinutesDown": {
       "2023-05-08": 22
     }
@@ -52,8 +50,8 @@
     "uptimeYear": "100.00%",
     "time": 168,
     "timeDay": 171,
-    "timeWeek": 163,
-    "timeMonth": 171,
+    "timeWeek": 167,
+    "timeMonth": 172,
     "timeYear": 168,
     "dailyMinutesDown": {}
   },
@@ -63,16 +61,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/kaas.cloudpunks.io.ico",
     "slug": "cloudpunks-kaas-plattform",
     "status": "up",
-    "uptime": "99.03%",
+    "uptime": "99.04%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.03%",
-    "time": 341,
-    "timeDay": 223,
-    "timeWeek": 239,
-    "timeMonth": 236,
-    "timeYear": 341,
+    "uptimeYear": "99.04%",
+    "time": 339,
+    "timeDay": 240,
+    "timeWeek": 222,
+    "timeMonth": 237,
+    "timeYear": 339,
     "dailyMinutesDown": {
       "2023-04-16": 583
     }
