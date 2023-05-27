@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 487,
-    "timeDay": 58,
-    "timeWeek": 158,
+    "time": 480,
+    "timeDay": 57,
+    "timeWeek": 159,
     "timeMonth": 229,
-    "timeYear": 487,
+    "timeYear": 480,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
-    "time": 340,
-    "timeDay": 165,
-    "timeWeek": 240,
-    "timeMonth": 239,
-    "timeYear": 340,
+    "time": 339,
+    "timeDay": 271,
+    "timeWeek": 247,
+    "timeMonth": 242,
+    "timeYear": 339,
     "dailyMinutesDown": {
       "2023-05-08": 22
     }
@@ -49,8 +49,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 168,
-    "timeDay": 150,
-    "timeWeek": 169,
+    "timeDay": 175,
+    "timeWeek": 170,
     "timeMonth": 173,
     "timeYear": 168,
     "dailyMinutesDown": {}
@@ -61,16 +61,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/kaas.cloudpunks.io.ico",
     "slug": "cloudpunks-kaas-plattform",
     "status": "up",
-    "uptime": "99.10%",
+    "uptime": "99.12%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.10%",
-    "time": 332,
-    "timeDay": 233,
-    "timeWeek": 202,
-    "timeMonth": 234,
-    "timeYear": 332,
+    "uptimeYear": "99.12%",
+    "time": 331,
+    "timeDay": 237,
+    "timeWeek": 209,
+    "timeMonth": 236,
+    "timeYear": 331,
     "dailyMinutesDown": {
       "2023-04-16": 583
     }
@@ -86,11 +86,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 268,
-    "timeDay": 197,
-    "timeWeek": 268,
-    "timeMonth": 268,
-    "timeYear": 268,
+    "time": 284,
+    "timeDay": 362,
+    "timeWeek": 284,
+    "timeMonth": 284,
+    "timeYear": 284,
     "dailyMinutesDown": {}
   }
 ]
