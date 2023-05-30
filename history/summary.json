@@ -61,11 +61,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/kaas.cloudpunks.io.ico",
     "slug": "cloudpunks-kaas-plattform",
     "status": "up",
-    "uptime": "99.18%",
+    "uptime": "99.19%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.18%",
+    "uptimeYear": "99.19%",
     "time": 324,
     "timeDay": 238,
     "timeWeek": 200,
@@ -80,9 +80,9 @@
     "url": "https://marketplace.cloudpunks.de/",
     "icon": "https://icons.duckduckgo.com/ip3/marketplace.cloudpunks.de.ico",
     "slug": "cloudpunks-marketplace",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -91,6 +91,8 @@
     "timeWeek": 254,
     "timeMonth": 267,
     "timeYear": 267,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-30": 0
+    }
   }
 ]
