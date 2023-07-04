@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 378,
-    "timeDay": 481,
-    "timeWeek": 290,
-    "timeMonth": 215,
-    "timeYear": 378,
+    "time": 375,
+    "timeDay": 73,
+    "timeWeek": 233,
+    "timeMonth": 204,
+    "timeYear": 375,
     "dailyMinutesDown": {}
   },
   {
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 302,
-    "timeDay": 390,
-    "timeWeek": 247,
-    "timeMonth": 248,
+    "timeDay": 317,
+    "timeWeek": 263,
+    "timeMonth": 251,
     "timeYear": 302,
     "dailyMinutesDown": {
       "2023-05-08": 22
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 170,
-    "timeDay": 193,
-    "timeWeek": 174,
+    "time": 171,
+    "timeDay": 195,
+    "timeWeek": 181,
     "timeMonth": 175,
-    "timeYear": 170,
+    "timeYear": 171,
     "dailyMinutesDown": {}
   },
   {
@@ -67,9 +67,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.52%",
     "time": 288,
-    "timeDay": 248,
-    "timeWeek": 234,
-    "timeMonth": 221,
+    "timeDay": 280,
+    "timeWeek": 259,
+    "timeMonth": 223,
     "timeYear": 288,
     "dailyMinutesDown": {
       "2023-04-16": 583
@@ -80,18 +80,19 @@
     "url": "https://marketplace.cloudpunks.de/",
     "icon": "https://icons.duckduckgo.com/ip3/marketplace.cloudpunks.de.ico",
     "slug": "cloudpunks-marketplace",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.92%",
     "time": 299,
-    "timeDay": 408,
-    "timeWeek": 345,
+    "timeDay": 0,
+    "timeWeek": 342,
     "timeMonth": 308,
     "timeYear": 299,
     "dailyMinutesDown": {
+      "2023-07-04": 0,
       "2023-06-16": 27,
       "2023-06-15": 21
     }
