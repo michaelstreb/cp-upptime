@@ -1,7 +1,7 @@
 url: https://marketplace.cloudpunks.de/
-status: up
-code: 200
-responseTime: 287
-lastUpdated: 2023-08-23T23:05:28.408Z
+status: down
+code: 500
+responseTime: 10535
+lastUpdated: 2023-08-24T22:06:43.579Z
 startTime: 2023-05-22T08:22:49.000Z
 generator: Upptime <https://github.com/upptime/upptime>
