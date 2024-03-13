@@ -43,11 +43,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/git.cloudpunks.io.ico",
     "slug": "cloudpunks-git-service",
     "status": "up",
-    "uptime": "99.78%",
+    "uptime": "99.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.78%",
+    "uptimeYear": "99.79%",
     "time": 188,
     "timeDay": 108,
     "timeWeek": 143,
@@ -63,9 +63,9 @@
     "url": "https://kaas.cloudpunks.io/",
     "icon": "https://icons.duckduckgo.com/ip3/kaas.cloudpunks.io.ico",
     "slug": "cloudpunks-kaas-plattform",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
@@ -75,6 +75,7 @@
     "timeMonth": 221,
     "timeYear": 258,
     "dailyMinutesDown": {
+      "2024-03-13": 0,
       "2023-04-16": 583
     }
   },
