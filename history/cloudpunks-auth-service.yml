@@ -1,7 +1,7 @@
 url: https://auth.cloudpunks.io/auth/realms/core
-status: down
-code: 503
-responseTime: 348
-lastUpdated: 2024-03-30T02:17:30.995Z
+status: up
+code: 200
+responseTime: 757
+lastUpdated: 2024-03-30T02:25:06.957Z
 startTime: 2023-04-10T17:33:02.000Z
 generator: Upptime <https://github.com/upptime/upptime>
