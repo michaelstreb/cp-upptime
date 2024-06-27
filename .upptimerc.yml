@@ -10,8 +10,6 @@ sites:
     url: https://auth.cloudpunks.io/auth/realms/core
   - name: cloudpunks - git service
     url: https://git.cloudpunks.io
-  - name: cloudpunks - kaas plattform
-    url: https://kaas.cloudpunks.io/
   - name: cloudpunks - marketplace
     url: https://marketplace.cloudpunks.de/   
     __dangerous__disable_verify_peer: true
