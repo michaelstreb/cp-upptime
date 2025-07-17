@@ -6,17 +6,16 @@
     "slug": "cloudpunks-website",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "98.98%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.48%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.51%",
     "uptimeYear": "99.95%",
     "time": 347,
-    "timeDay": 346,
-    "timeWeek": 831,
-    "timeMonth": 340,
-    "timeYear": 394,
+    "timeDay": 352,
+    "timeWeek": 828,
+    "timeMonth": 337,
+    "timeYear": 395,
     "dailyMinutesDown": {
-      "2025-07-16": 15,
       "2025-07-07": 123,
       "2025-06-25": 75,
       "2025-06-24": 16,
@@ -35,9 +34,9 @@
     "uptimeMonth": "99.29%",
     "uptimeYear": "99.89%",
     "time": 279,
-    "timeDay": 230,
-    "timeWeek": 226,
-    "timeMonth": 253,
+    "timeDay": 322,
+    "timeWeek": 238,
+    "timeMonth": 255,
     "timeYear": 273,
     "dailyMinutesDown": {
       "2025-07-15": 309,
@@ -56,9 +55,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 235,
-    "timeDay": 260,
-    "timeWeek": 216,
-    "timeMonth": 224,
+    "timeDay": 182,
+    "timeWeek": 208,
+    "timeMonth": 222,
     "timeYear": 243,
     "dailyMinutesDown": {
       "2025-05-14": 60,
@@ -78,8 +77,8 @@
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.77%",
     "time": 667,
-    "timeDay": 285,
-    "timeWeek": 236,
+    "timeDay": 283,
+    "timeWeek": 257,
     "timeMonth": 250,
     "timeYear": 749,
     "dailyMinutesDown": {
@@ -114,8 +113,7 @@
       "2024-08-20": 16,
       "2024-08-16": 26,
       "2024-08-07": 25,
-      "2024-07-18": 47,
-      "2024-07-17": 71
+      "2024-07-18": 47
     }
   }
 ]
