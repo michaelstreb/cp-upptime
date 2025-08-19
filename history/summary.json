@@ -4,9 +4,9 @@
     "url": "https://www.cloudpunks.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.cloudpunks.de.ico",
     "slug": "cloudpunks-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "95.17%",
+    "uptimeDay": "95.16%",
     "uptimeWeek": "94.49%",
     "uptimeMonth": "97.47%",
     "uptimeYear": "99.74%",
@@ -40,9 +40,9 @@
     "slug": "cloudpunks-auth-service",
     "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "41.60%",
-    "uptimeWeek": "91.66%",
-    "uptimeMonth": "98.08%",
+    "uptimeDay": "41.11%",
+    "uptimeWeek": "91.59%",
+    "uptimeMonth": "98.06%",
     "uptimeYear": "99.73%",
     "time": 272,
     "timeDay": 633,
@@ -50,7 +50,7 @@
     "timeMonth": 399,
     "timeYear": 284,
     "dailyMinutesDown": {
-      "2025-08-19": 841,
+      "2025-08-19": 848,
       "2025-07-15": 309,
       "2025-01-22": 245
     }
