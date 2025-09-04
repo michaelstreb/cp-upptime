@@ -12,7 +12,7 @@
     "uptimeYear": "99.55%",
     "time": 257,
     "timeDay": 715,
-    "timeWeek": 163,
+    "timeWeek": 308,
     "timeMonth": 72,
     "timeYear": 258,
     "dailyMinutesDown": {
@@ -69,9 +69,9 @@
     "url": "https://git.cloudpunks.io",
     "icon": "https://icons.duckduckgo.com/ip3/git.cloudpunks.io.ico",
     "slug": "cloudpunks-git-service",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -81,6 +81,7 @@
     "timeMonth": 391,
     "timeYear": 263,
     "dailyMinutesDown": {
+      "2025-09-04": 0,
       "2025-05-14": 60,
       "2025-04-17": 26,
       "2024-09-20": 21
