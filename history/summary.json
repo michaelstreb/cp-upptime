@@ -11,9 +11,9 @@
     "uptimeMonth": "96.42%",
     "uptimeYear": "99.55%",
     "time": 257,
-    "timeDay": 403,
-    "timeWeek": 294,
-    "timeMonth": 59,
+    "timeDay": 365,
+    "timeWeek": 293,
+    "timeMonth": 60,
     "timeYear": 258,
     "dailyMinutesDown": {
       "2025-08-27": 82,
@@ -52,9 +52,9 @@
     "uptimeMonth": "92.32%",
     "uptimeYear": "99.25%",
     "time": 279,
-    "timeDay": 251,
-    "timeWeek": 384,
-    "timeMonth": 386,
+    "timeDay": 222,
+    "timeWeek": 342,
+    "timeMonth": 384,
     "timeYear": 275,
     "dailyMinutesDown": {
       "2025-08-21": 931,
@@ -76,8 +76,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 263,
-    "timeDay": 466,
-    "timeWeek": 443,
+    "timeDay": 259,
+    "timeWeek": 468,
     "timeMonth": 398,
     "timeYear": 269,
     "dailyMinutesDown": {
@@ -93,14 +93,14 @@
     "slug": "cloudpunks-marketplace",
     "status": "up",
     "uptime": "99.79%",
-    "uptimeDay": "95.25%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.32%",
     "uptimeMonth": "99.71%",
     "uptimeYear": "99.76%",
     "time": 663,
-    "timeDay": 386,
-    "timeWeek": 267,
-    "timeMonth": 341,
+    "timeDay": 239,
+    "timeWeek": 263,
+    "timeMonth": 342,
     "timeYear": 741,
     "dailyMinutesDown": {
       "2025-09-10": 68,
@@ -133,8 +133,7 @@
       "2024-10-23": 26,
       "2024-10-04": 22,
       "2024-10-03": 18,
-      "2024-09-20": 32,
-      "2024-09-12": 82
+      "2024-09-20": 32
     }
   }
 ]
