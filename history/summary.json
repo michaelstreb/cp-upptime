@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.56%",
     "time": 262,
-    "timeDay": 394,
-    "timeWeek": 377,
-    "timeMonth": 281,
+    "timeDay": 154,
+    "timeWeek": 304,
+    "timeMonth": 272,
     "timeYear": 262,
     "dailyMinutesDown": {
       "2025-08-27": 82,
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.16%",
     "time": 301,
-    "timeDay": 321,
-    "timeWeek": 333,
-    "timeMonth": 350,
+    "timeDay": 188,
+    "timeWeek": 288,
+    "timeMonth": 349,
     "timeYear": 293,
     "dailyMinutesDown": {
       "2025-10-06": 520,
@@ -80,11 +80,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 284,
-    "timeDay": 186,
-    "timeWeek": 421,
-    "timeMonth": 379,
-    "timeYear": 294,
+    "time": 285,
+    "timeDay": 516,
+    "timeWeek": 459,
+    "timeMonth": 390,
+    "timeYear": 295,
     "dailyMinutesDown": {
       "2025-05-14": 60,
       "2025-04-17": 26
@@ -96,15 +96,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/marketplace.cloudpunks.de.ico",
     "slug": "cloudpunks-marketplace",
     "status": "up",
-    "uptime": "99.79%",
+    "uptime": "99.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.78%",
-    "time": 675,
-    "timeDay": 559,
-    "timeWeek": 349,
-    "timeMonth": 364,
+    "time": 676,
+    "timeDay": 201,
+    "timeWeek": 345,
+    "timeMonth": 354,
     "timeYear": 317,
     "dailyMinutesDown": {
       "2025-11-05": 31,
@@ -135,8 +135,7 @@
       "2025-01-23": 26,
       "2025-01-15": 41,
       "2024-12-11": 32,
-      "2024-11-27": 20,
-      "2024-11-15": 56
+      "2024-11-27": 20
     }
   }
 ]
