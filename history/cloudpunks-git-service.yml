@@ -1,7 +1,7 @@
 url: https://git.cloudpunks.io
-status: up
-code: 200
-responseTime: 529
-lastUpdated: 2026-01-25T23:07:32.227Z
+status: down
+code: 502
+responseTime: 86
+lastUpdated: 2026-01-26T09:47:46.077Z
 startTime: 2023-04-15T21:55:19.000Z
 generator: Upptime <https://github.com/upptime/upptime>
